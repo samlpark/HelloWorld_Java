@@ -50,6 +50,11 @@ public class Output_stars
 				start1 = 4; start2 = 1; inc1 = -1; inc2 = 1;
 				char1 = ' '; char2 = '*';
 			}
+			else if(select.equals("3"))
+			{
+				start1 = 0; start2 = 5; inc1 = 1; inc2 = -1;
+				char1 = ' '; char2 = '*';
+			}
 			else
 			{
 				start1 = 5; start2 = 0; inc1 = -1; inc2 = 1;
