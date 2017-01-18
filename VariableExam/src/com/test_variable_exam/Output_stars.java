@@ -1,6 +1,5 @@
 package com.test_variable_exam;
-import java.util.Scanner;
-import java.util.Arrays;
+import java.util.*;
 
 public class Output_stars
 {
@@ -76,5 +75,4 @@ public class Output_stars
 		}
 		while(scanner.nextLine().equals("y"));
 	}
-
 }
